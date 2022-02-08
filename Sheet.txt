@@ -1,0 +1,29 @@
+Player :                                                           Name  :
+
+### Traits
+
+Attributes      Dexterous           Dexterous                                 Lean and wirey
+Profession      Student             Promising physics student                 Quantum physics t-shirt
+Hobby           Fencing             Passionate Fencer                         Carries a sabre
+                                    Gamer                                     Carries a nintendo-swift
+Issue           Shy                 Shy around women and large audiences      Sunglasses
+Knack           Luky in games       Lucky in games of chance                  D20 necklace
+Tradition       Void Engineer       Void Enginneer                            Hex tattoo
+Main Sphere     Entropy x2          Entropy Master* (=2)                      Swirls in his pupils
+Side Sphere     Matter              Matter*                                   Chiseled features
+
+
+### Recources
+
+Damage          [ ][ ][ ][ ][ ] [ ][ ][ ][ ][ ]
+Paradox         [ ][ ][ ][ ][ ] [ ][ ][ ][ ][ ]
+
+### Relations
+
+Ally            ________________________    Shared _________________________________________________________
+Ally            ________________________    Shared _________________________________________________________
+Frenemy         ________________________    Desire _________________________________________________________
+
+
+
+

@@ -1,0 +1,358 @@
+Mage, Traitcraft
+================
+
+ToDo
+-----
+
+- mentors, oponents, example characters
+- difficulty examples from each sphere
+- character sheet
+
+Casting
+---------
+
+
+6 Yes, and      great success with positive side-effect
+5 Yes
+4 Yes, but      a negative sideeffect of the magic
+3 No, but       a different prositive effect happens
+2 No
+1 No, and       a different negative effect happens
+
+Magic Score
+------------
+
+Tradition         0-1
+Sphere            0-2
+Knack             0-1
+Revent Skill      0-1
+                 -----
+                  0-5
+
+
+Difficulty
+-------------
+
+1 Trivial     Detect something close
+2 Basic       Small effect
+3 Normal      Average effect
+4 Hard        Great effect, Average effect for two targets 
+5 Unreal      Huge effect
+
+
+
+Paradox
+-------
+
+### How you get paradox
+
+You get one paradox when you perform magic against the concensus observed by sleepers.
+
+You can improve your die result by one category if you voluntarily take a leval of paradox
+
+Whenever you gain paradox you roll with your magic score vs your current level
+of Paradox. Asking Do I suffer backlash now?
+
+If you are technicracy using hypertech incurs 1 level less paradox.
+
+### Backlash
+
+A magic effect of the "size" if the paradox affects you in a negative way.
+
+On a "yes, and ..." result you take damage equal to the paradox inaddition to what the effect does to you.
+
+Then erase your paradox
+
+### Getting rid of Paradox
+
+Spending a day performing rituals of your tradition without changing reality
+allows a roll to get rid of one paradox. Roll on Treadition, add a die if you
+are on a node.
+
+If you spend more time withoout making rolls you can add a die for each
+additional day taken.
+
+Damage
+------
+
+
+
+Characters
+----------
+
+
+
+### Start
+
+1. A knack from an unpicked sphere
+2. The corresponding sphere
+3. Another level of the corresponding sphere (+1 Tier)
+4. A second unpicked sphere
+
+
+### Tiers
+
+0 Sleeper
+1 Awakened
+2 Attuned
+3 Enlightened
+4 Acended
+5 Transcended
+
+
+
+Spheres
+-------
+
+[See](https://en.wikipedia.org/wiki/Mage:_The_Ascension#The_Technocratic_Union)
+
+
+
+Prime -> Mind -> Spirit -> Forces -> Matter -> Life -> Correspondence -> Time -> Entropy -> 
+
+Mind
+Spirit
+Forces
+Matter
+Life
+Correspondence
+Entropy
+
+Prime
+Time
+
+### Correspondence
+
+Deals with spatial relations, giving the Mage power over space and distances.
+Correspondence magic allows powers such as teleportation, seeing into distant
+areas, and at higher levels the Mage may also co-locate herself or even stack
+different spaces within each other. Correspondence can be combined with almost
+any other sphere to create effects that span distances.
+
+### Entropy
+
+This sphere gives the Mage power over order, chaos, fate and fortune. A mage can
+sense where elements of chance influence the world and manipulate them to some
+degree. At simple levels machines can be made to fail, plans to go off without a
+hitch, and games of chance heavily influenced. Advanced mages can craft
+self-propagating memes or curse entire family lines with blights. The only
+requirement of the Entropy sphere is that all interventions work within the
+general flow of natural entropy. Forces
+
+### Forces
+
+concerns energies and natural forces and their negative opposites (i.e.
+light and shadow can both be manipulated independently with this Sphere).
+Essentially, anything in the material world that can be seen or felt but is not
+material can be controlled: electricity, gravity, magnetism, friction, heat,
+motion, fire, etc. At low levels the mage can control forces on a small scale,
+changing their direction, converting one energy into another. At high levels,
+storms and explosions can be conjured. Obviously, this Sphere tends to do the
+most damage and is the most flashy and vulgar. Along with Life and Matter,
+Forces is one of the three 'Pattern Spheres' which together are able to mold all
+aspects of the physical world. Life
+
+### Life
+
+deals with understanding and influencing biological systems. Generally
+speaking, any material object with mostly living cells falls under the influence
+of this sphere. Simply, this allows the mage to heal herself or metamorphose
+simple life-forms at lower levels, working up to healing others and controlling
+more complex life at higher levels. Usually, seeking to improve a complex
+life-form beyond natural limits causes the condition of pattern bleeding: the
+affected life form begins to wither and die over time. Along with Matter and
+Forces, Life is one of the three Pattern Spheres.
+
+### Mind
+
+Dealing with control over one's own mind, the reading and influencing of other
+minds, and a variety of subtler applications such as Astral Projection and
+psychometry. At high levels, Mages can create new complete minds or completely
+rework existing ones. Matter
+
+### Matter
+
+deals with all inanimate material. Thus, being alive protects a thing
+from direct manipulation by the Matter sphere. Stone, dead wood, water, gold,
+and the corpses of once living things are only the beginning. With this Sphere,
+matter can be reshaped mentally, transmuted into another substance, or given
+altered properties. Along with Life and Forces, Matter is one of the three
+Pattern Spheres.
+
+### Prime
+
+This sphere deals directly with Quintessence, the raw material of the tapestry,
+which is the metaphysical structure of reality. This sphere allows Quintessence
+to be channeled and/or funneled in any way at higher levels, and it is necessary
+if the mage ever wants to conjure something out of nothing (as opposed to
+transforming one pattern into another). Uses of Prime include general magic
+senses, counter-magic, and making magical effects permanent.
+
+### Spirit
+
+This sphere is an eclectic mixture of abilities relating to dealings with the
+spirit world or Umbra. It includes stepping into the Near Umbra right up to
+traveling through outer space, contacting and controlling spirits, communing
+with your own or others' avatars, returning a Mage into a sleeper, returning
+ghosts to life, creating magical fetish items, and so forth. Unlike other
+Spheres, the difficulty of Spirit magic is often a factor of the Gauntlet,
+making these spells more difficult for the most part. The Sphere is referred to
+as Dimensional Science by the Technocratic Union.
+
+### Time
+
+This sphere deals with dilating, slowing, stopping or traveling through time.
+Due to game mechanics, it is simpler to travel forward in time than backwards.
+Time can be used to install delays into spells, view the past or future, and
+even pull people and objects out of linear progression. Time magic offers one
+means to speed up a character to get multiple actions in a combat round, a much
+coveted power in turn-based combat.
+
+
+
+Tradition              
+----------------------------------------------------------------------------------------------------
+
+Prime -> Mind -> Spirit -> Forces -> Life -> Matter -> Correspondence -> Time -> Entropy -> 
+
+Akasic Protherhood        Meditations, Mantras                      Mind           Prime, Spirit
+Celestial Chorus          Prayer, Candles, Reliqs                   Prime          Entropy, Mind
+Cult of Ecstasy           Music, Dance, Drugs                       Time           Correspondance, Entropy
+Dreamspeakers             Amulets, Mandala's, Chanting              Spirit         Mind, Forces
+Euthanatos                Blades, Dice, Scales                      Entropy        Time, Prime
+Order of Hermes           Staves/wands, Pentagrams, Written spells  Forces         Spirit, Life
+Sons of Aether            Steampunk Tech, Exotic materials          Matter         Forces, Life
+Verbena                   Sample of once living materials of target Life           Matter, Forces
+Virtual Adapts            Computers, Mathematics, Cypernetics       Correspondence Matter, Time
+Hollow onces              (Self-)Harm, Destruction, Grimoires       None           Any
+
+
+### Akasic Protherhood   
+
+Concept: Mystics, Monks, Wu-Shu
+
+Spheres: Mind - Prime, Spirit
+
+1 Trivial     -
+2 Basic       Mantra
+3 Normal      Spells written on paper
+4 Hard        Meditation
+5 Unreal      Cleansing ritual
+
+### Celestial Chorus  
+
+Concept: Prophets, Priests 
+
+Spheres: Prime - Entropy, Mind
+
+1 Trivial     -
+2 Basic       Prayer
+3 Normal      Burn a candle
+4 Hard        Holy ground
+5 Unreal      Reliq
+
+
+### Cult of Ecstasy           
+   
+Concept:  
+
+Spheres: Time - Correspondence, Entropy
+
+1 Trivial     -
+2 Basic       Music
+3 Normal      Dance
+4 Hard        Drugs
+5 Unreal      Sex / Fasting
+
+### Dreamspeakers
+
+Concept: Shaman
+
+Spheres: Spirit - Mind, Forces
+
+1 Trivial     -
+2 Basic       Chanting
+3 Normal      Mandala
+4 Hard        Hand made amulets
+5 Unreal      Spirit quest
+
+
+### Euthanatos                
+
+Concept: Mercy killers
+
+Spheres: Entropy - Time, Prime
+
+1 Trivial     -
+2 Basic       Roll some dice/draw a card/...
+3 Normal      Weapon
+4 Hard        Destroy a relevant object
+5 Unreal      Kill a relevant person
+
+### Order of Hermes
+
+Concept:  Alchemists, Wizards
+
+Spheres: Forces - Spirit, Life
+
+1 Trivial     -
+2 Basic       Staff / Wand
+3 Normal      Spell book or handwritten spell scoll
+4 Hard        Carefully contructed magaic circles
+5 Unreal      Deal with a powerful spirit
+
+
+### Sons of Aether
+
+Concept: Mad scientist
+
+Spheres: Matter - Forces, Life
+
+1 Trivial     -
+2 Basic       Aether goggles (small wierd tech)
+3 Normal      Transmogrifier (big wierd tech)
+4 Hard        Exotic power source
+5 Unreal      Rare event (Lightning strike, planatary alignment, ....)
+
+
+### Verbena
+
+Concept: Witches 
+
+Spheres: Life - Matter, Forces
+
+1 Trivial     -
+2 Basic       Abstract representation of target
+3 Normal      Once living sample of targets
+4 Hard        Item of emotial value to target
+5 Unreal      Sacrifice a living thing with strong ties to target
+
+
+### Virtual Adapts
+
+Computers, Mathematics, Cypernetics       
+
+Concept: Correspondence - Matter, Time
+
+Spheres: 
+
+1 Trivial     -
+2 Basic       Smartphone
+3 Normal      Connected computer
+4 Hard        Mathematical proof
+5 Unreal      Creating an AI program
+
+### Hollow onces
+
+Concept: Goth, Doomer
+
+Spheres: None - All 
+
+1 Trivial     -
+2 Basic       Astology/Numerology
+3 Normal      Gimoire(Old, Gothic)
+4 Hard        Destroy something of beauty
+5 Unreal      Self-Harm
+
+
+
