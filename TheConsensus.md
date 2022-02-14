@@ -91,6 +91,61 @@ Time
 
 
 
+Arc Plot
+----------
+
+
+
+
+Episode 1 plot
+-----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Mind, Prime, Spirit                  Akashic Brotherhood

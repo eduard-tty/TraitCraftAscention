@@ -4,13 +4,17 @@ Mage, Traitcraft
 ToDo
 -----
 
-- mentors, oponents, example characters
+- mentors, oponents, example characters (non-mage technocrats)
 - difficulty examples from each sphere
-- character sheet
+- finish backlash
+
+### The Consussus.md
+
+- arc plot
+- eposode plot
 
 Casting
 ---------
-
 
 6 Yes, and      great success with positive side-effect
 5 Yes
@@ -19,49 +23,51 @@ Casting
 2 No
 1 No, and       a different negative effect happens
 
-Magic Score
-------------
+Difficulty
+-------------
+
+0 Trivial     Detect something close
+1 Basic       Small effect
+2 Normal      Average effect
+3 Hard        Great effect, Average effect for two targets 
+4 Unreal      Huge effect
+
+### Magic Score
 
 Tradition         0-1
 Sphere            0-2
 Knack             0-1
-Revent Skill      0-1
+Relevent Skill    0-1
                  -----
                   0-5
-
-
-Difficulty
--------------
-
-1 Trivial     Detect something close
-2 Basic       Small effect
-3 Normal      Average effect
-4 Hard        Great effect, Average effect for two targets 
-5 Unreal      Huge effect
-
-
-
 Paradox
 -------
 
 ### How you get paradox
 
 You get one paradox when you perform magic against the concensus observed by sleepers.
-
 You can improve your die result by one category if you voluntarily take a leval of paradox
-
 Whenever you gain paradox you roll with your magic score vs your current level
 of Paradox. Asking Do I suffer backlash now?
 
-If you are technicracy using hypertech incurs 1 level less paradox.
+Sleepers don't get Paradox. Agents that just use 'hyper-tech' don't get paradox.
+Technocracy wizzards that just use 'hyper-tech' don't get paradox, but if they
+use magic they get paradox as normal.
 
 ### Backlash
 
-A magic effect of the "size" if the paradox affects you in a negative way.
+A magic effect of the "size" of the paradox affects you in a negative way.
 
 On a "yes, and ..." result you take damage equal to the paradox inaddition to what the effect does to you.
 
-Then erase your paradox
+Then erase all your paradox
+
+6 Yes, and      
+5 Yes
+4 Yes, but     
+3 No, but       
+2 No            You suffer an effect of the PARADOX level    
+1 No, and       In addition to the backlash you also get PARADOX damage from directly disruping your pattern
 
 ### Getting rid of Paradox
 
@@ -106,20 +112,7 @@ Spheres
 
 [See](https://en.wikipedia.org/wiki/Mage:_The_Ascension#The_Technocratic_Union)
 
-
-
 Prime -> Mind -> Spirit -> Forces -> Matter -> Life -> Correspondence -> Time -> Entropy -> 
-
-Mind
-Spirit
-Forces
-Matter
-Life
-Correspondence
-Entropy
-
-Prime
-Time
 
 ### Correspondence
 
@@ -128,6 +121,14 @@ Correspondence magic allows powers such as teleportation, seeing into distant
 areas, and at higher levels the Mage may also co-locate herself or even stack
 different spaces within each other. Correspondence can be combined with almost
 any other sphere to create effects that span distances.
+
+0 Detect presence of correspondance
+1 
+2 Teleport
+
++1 Many items
++1 Life subjects
+
 
 ### Entropy
 
